@@ -146,14 +146,6 @@ The notebooks should be executed in the following order
 
 ---
 
-## 🤝 Contributors
-👨‍💻 **Team Members**:
-- **Nikhil Soni** (`ns6062@nyu.edu`)   
-- **Sumedh Parvatikar** (`sp7479@nyu.edu`)   
-- **Kaartikeya Panjwani** (`kp3291@nyu.edu`)   
-
----
-
 ## 📜 Assumptions & Limitations
 ✅ **Assumptions**:
 - Complaints are **reported with equal probability**.
